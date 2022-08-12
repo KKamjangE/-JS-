@@ -1,43 +1,35 @@
 const quotes = [
     {
-        quote: "When winter comes, spring won't be far away.",
-        author: "Shelly",
+        quote: "날지 않는 돼지는 그냥 돼지일 뿐이야",
+        author: "<붉은돼지, 1992>",
     },
     {
-        quote: "Small opportunities often lead to great achievements.",
-        author: "Demosthenes",
+        quote: "살아라, 그대는 아름답다.",
+        author: "<모모노케 히메, 1997>",
     },
     {
-        quote: "Success is not about being satisfied. I succeeded because I was satisfied.",
-        author: "Alain",
+        quote: "한 번 만난 인연은 잊혀지는 것이 아니라 잊고 있을 뿐이야.",
+        author: "<센과 치히로의 행방불명, 2001>",
     },
     {
-        quote: "Money is like sea water. It makes you thirsty the more you drink it.",
-        author: "Schopenhauer",
+        quote: "너무 겉모습에만 신경 쓰지 마 중요한 건 마음가짐이야.",
+        author: "<마녀배달부 키키, 1989>",
     },
     {
-        quote: "Don't just have a mind. must be practiced.",
-        author: "Bruce Lee",
+        quote: "오늘이 안되면 내일이 있다, 언제라도 내일은 있다.",
+        author: "<추억은 방울방울, 1991>",
     },
     {
-        quote: "He who has not eaten bread with tears does not know the true taste of life.",
-        author: "Goethe",
+        quote: "원하는 걸 포기한다면 그것은 원하는 게 아니다.",
+        author: "<폼포코 너구리 대작전, 1994>",
     },
     {
-        quote: "do what you have to Everything is for the happiness of others, and at the same time, especially for my own happiness.",
-        author: "Tolstoy",
+        quote: "자기 안의 원석을 찾아내서 오랜 시간 다듬어 가는 거란다. 시간이 많이 드는 일이지.",
+        author: "<귀를 기울이면, 1995>",
     },
     {
-        quote: "Count to 100 when you are angry. At worst, swear by them.",
-        author: "mark twain",
-    },
-    {
-        quote: "Poverty exists where you feel poor.",
-        author: "Emerson",
-    },
-    {
-        quote: "Don't look for problems, find solutions.",
-        author: "Henry Ford",
+        quote: "난 이미 충분히 도망쳐 왔어. 이제야 지켜야만 하는 것이 생겼어... 바로 너야.",
+        author: "<하울의 움직이는 성, 2004>",
     },
 ]
 

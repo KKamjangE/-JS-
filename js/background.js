@@ -1,7 +1,13 @@
 const images = [
-    "0.jpeg",
-    "1.jpeg",
-    "2.jpeg",
+    "chihiro014.jpg",
+    "chihiro042.jpg",
+    "chihiro043.jpg",
+    "ponyo001.jpg",
+    "ponyo012.jpg",
+    "ponyo017.jpg",
+    "totoro001.jpg",
+    "totoro024.jpg",
+    "totoro029.jpg",
 ]
 
 const chosnImage = images[Math.floor(Math.random() * images.length)]
